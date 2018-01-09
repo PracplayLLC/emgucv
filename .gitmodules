@@ -14,3 +14,10 @@
 [submodule "Emgu.CV.Extern/tesseract/libtesseract/tesseract-ocr.git"]
 	path = Emgu.CV.Extern/tesseract/libtesseract/tesseract-ocr.git
 	url = git://git.code.sf.net/p/emgucv/tesseract-ocr-git
+[submodule "vtk"]
+	path = vtk
+	url = https://github.com/Kitware/VTK.git
+	ignore = dirty
+[submodule "Emgu.CV.Extern/tesseract/libtesseract/leptonica/leptonica.git"]
+	path = Emgu.CV.Extern/tesseract/libtesseract/leptonica/leptonica.git
+	url = https://github.com/emgucv/leptonica.git
